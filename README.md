@@ -24,13 +24,6 @@ I'm a Backend Engineer who codes out of passion and the desire to create somethi
 🔭 I’m currently working on https://github.com/macotsuu/bytestack <br>
 🌱 I’m currently learning Docker & PostgreSQL & Software Architecture
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=macotsuu&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=macotsuu&theme=react&hide_border=false)
-
-</div>
-
 ### STACK
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
