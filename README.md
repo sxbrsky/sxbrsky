@@ -14,8 +14,7 @@
 ?>
 ```
 <div align="center">
-
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/dominik-szamburski-a1768017a/](https://www.linkedin.com/in/dominik-szamburski-a1768017a/)
+![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/dominik-szamburski-a1768017a/)
 </div>
 
 ### ABOUT ME
