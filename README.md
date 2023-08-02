@@ -13,9 +13,6 @@
   }
 ?>
 ```
-<div align="center">
-![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/dominik-szamburski-a1768017a/)
-</div>
 
 ### ABOUT ME
 I'm a Backend Engineer who codes out of passion and the desire to create something amazing, I never do anything by compulsion. Despite specializing in the backend I can also code the frontend but am currently honing my skills in react.js. When learning new technologies I don't focus mainly on understanding how things work, but also how everything works from the inside out in order to learn as much as possible and be able to optimize my projects as much as possible. When creating new projects I try to make the code I write as accessible, efficient and robust as possible. Unfortunately, I can't yet manage projects well which causes unnecessary work, but I'm learning to organize my work as much as possible.
