@@ -5,10 +5,10 @@
 <?php
   class SoftwareEngineer {
     public function __construct(
-      public string NAME = 'Dominik Szamburski',
-      public string ROLE = 'Backend Engineer',
-      public string EXP = '5+ years',
-      public string COUNTRY = 'Poland',
+      public string $name = 'Dominik Szamburski',
+      public string $role = 'Backend Engineer',
+      public string $experience = '5+ years',
+      public string $country = 'Poland',
     ) {}
   }
 ?>
