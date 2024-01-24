@@ -7,14 +7,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nulldark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nulldark&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nulldark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nulldark&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nulldark&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nulldark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yzXdYW7sMzQAAAAd/barragan-bleach.gif"  />
+<img align="right" height="150" src="https://github.com/nulldark/nulldark/blob/master/assets/barragan-bleach.gif?raw=true"  />
 
 ###
 
