@@ -3,24 +3,18 @@
 <h2 align="left">Hello there 👋! I'm a Dominik, a software engineer based in Poland.</h2>
 
 <div align="center">
-  <div>
-    <a href="https://www.youtube.com/channel/UCWy--gbxgCeXzFJ6O5nav4g" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-    </a>
-    <a href="https://www.instagram.com/macotsuu/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="discord.com/users/435825271464263681" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    </a>
-    <a href="mailto:dominikszamburski99@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/dominik-szamburski-a1768017a/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-  </div>
-  <img src="https://raw.githubusercontent.com/nuldark/nuldark/output/snake.svg" alt="Snake animation" />
+    <div>
+      <a href="mailto:dominikszamburski99@gmail.com" target="_blank">
+        dominikszamburski99@gmail.com
+      </a><span> | </span>
+      <a href="https://www.linkedin.com/in/dominik-szamburski/" target="_blank">
+          linkedin.com/in/dominik-szamburski/
+      </a><span> | </span>
+      <a href="discord.com/users/435825271464263681" target="_blank">
+        discord _nuldark
+      </a>
+    </div>
+    <img src="https://raw.githubusercontent.com/nuldark/nuldark/output/snake.svg" alt="Snake animation" />
 </div>
 
 ### Skills
