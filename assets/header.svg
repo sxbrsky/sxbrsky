@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Dominik Szamburski — Software Engineer</title>
+  <desc id="description">Japanese technology inspired profile header in purple, graphite and gold.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A9ABB8" stroke-opacity=".07"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8A6FAE" stop-opacity=".28"/>
+      <stop offset=".62" stop-color="#5E4B8B" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#2D2D37" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="10" fill="#2D2D37"/>
+  <rect width="1200" height="360" rx="10" fill="url(#grid)"/>
+  <circle cx="1020" cy="55" r="330" fill="url(#glow)"/>
+  <path d="M0 302H1200" stroke="#A9ABB8" stroke-opacity=".16"/>
+  <path d="M884 0V360" stroke="#A9ABB8" stroke-opacity=".12"/>
+
+  <rect x="64" y="60" width="42" height="42" fill="#D4AF37"/>
+  <text x="85" y="88" fill="#2D2D37" font-family="serif" font-size="23" font-weight="700" text-anchor="middle">眠</text>
+  <text x="126" y="87" fill="#A9ABB8" font-family="monospace" font-size="13" font-weight="700" letter-spacing="3">SLPXXV / PROFILE_025</text>
+
+  <text x="64" y="180" fill="#F3F2F6" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Dominik Szamburski</text>
+  <text x="67" y="225" fill="#8A6FAE" font-family="Georgia, serif" font-size="26" font-style="italic">Software Engineer · Backend &amp; Web</text>
+
+  <circle cx="70" cy="270" r="4" fill="#D4AF37"/>
+  <text x="86" y="275" fill="#A9ABB8" font-family="monospace" font-size="12" letter-spacing="2">BUILDING DIGITAL SYSTEMS WITH INTENT</text>
+
+  <text x="1052" y="110" fill="#8A6FAE" font-family="serif" font-size="66" text-anchor="middle">設計</text>
+  <text x="1052" y="177" fill="#8A6FAE" fill-opacity=".7" font-family="serif" font-size="66" text-anchor="middle">精度</text>
+  <text x="1052" y="244" fill="#8A6FAE" fill-opacity=".4" font-family="serif" font-size="66" text-anchor="middle">品質</text>
+
+  <text x="64" y="329" fill="#A9ABB8" fill-opacity=".58" font-family="monospace" font-size="10" letter-spacing="2">POLAND / CET</text>
+  <text x="1136" y="329" fill="#D4AF37" font-family="monospace" font-size="10" letter-spacing="2" text-anchor="end">SYSTEM ONLINE ●</text>
+</svg>
